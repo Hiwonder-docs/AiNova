@@ -8,6 +8,7 @@ section p {
     color: #f98800;
     text-transform: unset;
 }
+
 .wy-nav-side .wy-menu-vertical li.toctree-l2 button.toctree-expand{
     pointer-events:none;
 }
@@ -114,6 +115,9 @@ table {
 @media screen and (min-width: 1400px) {
     .wy-grid-for-nav .wy-nav-side, .wy-grid-for-nav .wy-side-nav-search, .wy-grid-for-nav .wy-menu {
         width: 320px;
+    }
+    #packing-list .wy-table-responsive table{
+        width:800px;
     }
     .wy-grid-for-nav .wy-side-scroll{
         width: 340px;
