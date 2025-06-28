@@ -19,5 +19,6 @@ AiNova
    docs/6.AI_Vision_lesson.md
    docs/7.Python_Extension_Course.md
    docs/8.Arduino_Extension_course.md
+   docs/9.Autonomous_Driving_Extension_Course.md
    docs/Appendix.md
    Download <https://drive.google.com/drive/folders/10XXr8CeLymUqNXfqsT3URFiQA-t72rDp?usp=sharing>
